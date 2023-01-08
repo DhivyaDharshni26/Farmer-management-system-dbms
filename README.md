@@ -1,5 +1,5 @@
 How To Run?
-Connect to the database and import the database there and you are good to go.
+Connect to the database and import the sql file there and you are good to go.
 
 Output screenshots :
 
